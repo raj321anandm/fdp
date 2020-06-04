@@ -1,8 +1,11 @@
-def func(test):
-    print(test*3)
-
-def func_add(x,y):
-    return(x+y);
-
-def func_sub(x,y):
-    return(x-y);
+class fdp:
+    def __init__():
+        self.v = fdp_name
+    def check(self):
+        if self.v == "Anand":
+            print("Correct")
+        else:
+            print("Wrong")
+    def hint(self):
+        print("fdp_name = 'Anand'")
+    
